@@ -372,8 +372,8 @@ p {
 </body>
 </html> 
 ```
-![hasil](img/input.png)
+![hasil](img/inputt.png)
 
 *OUTPUT*
 
-![hasil](img/ouput.png)
+![hasil](img/output.png)
