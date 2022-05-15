@@ -376,4 +376,4 @@ p {
 
 *OUTPUT*
 
-![hasil](img/output.png)
+![hasil](img/ouput.png)
